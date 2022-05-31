@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on completing an intensive software development bootcamp focusing on full stack development fundamentals and problem solving at Nashville Software School
+- 🔭 I’m currently working on completing an intensive software development bootcamp focusing on full stack development at Nashville Software School
 - 📫 How to reach me: rochelle.rossman@gmail.com
 - 😄 Pronouns: she/her
 #
