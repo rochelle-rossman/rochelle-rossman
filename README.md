@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Rochelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochelle-rossman)](https://github.com/rochelle-rossman/github-readme-stats)
+![Rochelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochelle-rossman&theme=dark&show_icons=true)
 <!--
 **rochelle-rossman/rochelle-rossman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
