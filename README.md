@@ -32,11 +32,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
-<a href="https://app.daily.dev/rochelle_r"><img src="https://api.daily.dev/devcards/947551554d064c5eb0665fed06091e12.png?r=5nh" width="250" alt="Rochelle Rossman's Dev Card"/></a>
-
-<br/>
+<br/> 
 
 
 ## Connect with me  
