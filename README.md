@@ -1,9 +1,11 @@
-### Hi there 👋
+<img style="margin: 10px" src="https://lh3.googleusercontent.com/2-eY0yEYWu_93N6DX25Dw6Xbxd23TTL4_P4H0-uTs6Vogp0Ttfl01ktoZRawRwA-rlDR_ul7_ChnmaNygIWstcmtAJ_c3td0JTU64JyUcMeJNVsoyKyZLQ_F3xzVkqLbcKVjik_50ZaB3qQBVnlSwBIhG22czWS68lfwyg0ne_9ZPV5ypt28YNpElrsP43VWJez_1Ikx4waYOKSirH4zq-qzRxnloVyR7hr6n9hYjaw9gLLdednxtgLo8TYrt39uK6kMn99XfFyvBYEhHbJSiaOj1ogJeQ-lH8aQimMkR7FOYPR1eP-S6f6Zr_1lVm2swRTseyKlKcn9lQ7PmY3k7UliNQeSb4yqFQyeQ94c09Xf1KQOpTSq5A4fzBSNuwAzIF2iEloqhqPuKo5ttgpA7gDU5kfeKC6k9aPXmX6VCbqho7c3nI2B5YZU4WbIUlkT8vZp3OBJVOkWrALbu1jupxHGfsc2qb1hIQtfVX7Pr570ys-fFwVai0OhV92MCYyYLu_8esSQq7WhKSy0iiWduFOvb5EokbKHUxxEhLW76o-VQWercnkEn4A-cUX7otb2QUwkg5D0xNRHxTbd6usxwFpTh179qapzZFkBN1Ejhyki6XYFU_UBj8pKXWO2uvGyHjqb2ZwTNJs309VHX-3c9fv4B5UeVxgU3NS4vzN0fNKwvjPHgZMz11_dUjGM3SkfS6drAqR5TAVnpsL39hj4W3LyTyHVSnDS2MGbdfF0Yr1Z6smBy10QffHfobqqLaXjxG0NCBsQFPWOiKtrnvgqqRoLbXTXt2zgb46h0NdZdQTIBV1p-oIqy9A1oIAUXdoRIniBNQVCO6KqwL7kE0NpEFwhk7Z3k91juo6DxHsANyMbawFUT2LFiXKDwzrTYX1IZbaapgpKt9PMW5C0mU53xkSeBNe01YxEK4Z8BQ=w1128-h191-no?authuser=0" />
 
+### Hi there 👋
+- 😌 Pronouns: she/her
 - 🔭 I’m currently working on completing an intensive software development bootcamp focusing on full stack development at Nashville Software School
 - 🌱 I’m currently learning Python and Django
 - 📫 How to reach me: rochelle.rossman@gmail.com
-- 😄 Pronouns: she/her
+- 💻 Portfolio Site: https://rochellerossman.crd.co/
 
 
 ## Languages and Tools  
