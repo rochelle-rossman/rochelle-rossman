@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on completing an intensive software development bootcamp focusing on full stack development at Nashville Software School
 - 🌱 I’m currently learning Python and Django
 - 📫 How to reach me: rochelle.rossman@gmail.com
-- 💻 Portfolio Site: https://rochellerossman.crd.co/
-
+- 💻 Portfolio Site: <a href="rochellerossman.dev">rochellerossman.dev</a>
 
 ## Languages and Tools  
 <div align="center">  
