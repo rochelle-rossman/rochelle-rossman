@@ -2,8 +2,7 @@
 
 ### Hi there 👋
 - 😌 Pronouns: she/her
-- 🔭 I’m currently working on completing an intensive software development bootcamp focusing on full stack development at Nashville Software School
-- 🌱 I’m currently learning Python and Django
+- 🔭 I’ve completed an intensive software development bootcamp focusing on full stack web development at Nashville Software School
 - 📫 How to reach me: rochelle.rossman@gmail.com
 - 💻 Portfolio Site: <a href="rochellerossman.dev">rochellerossman.dev</a>
 
