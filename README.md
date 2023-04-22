@@ -3,6 +3,7 @@
 ### Hi there 👋
 - 😌 Pronouns: she/her
 - 🔭 I’ve completed an intensive software development bootcamp focusing on full stack web development at Nashville Software School
+- 🤓 I'm currently learning PHP and WordPress development
 - 📫 How to reach me: rochelle.rossman@gmail.com
 - 💻 Portfolio Site: <a href="https://rochellerossman.dev">rochellerossman.dev</a>
 
