@@ -1,5 +1,3 @@
-![](/banner.png)
-
 ### Hi there 👋
 
 
