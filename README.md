@@ -1,6 +1,8 @@
-### 👋 Hi, I’m Rochelle Rossman
+![Picture](LIBanner2025.png)
 
-I'm a web developer with a passion for accessible, inclusive, and user-first digital experiences. I come from a nontraditional background — with over a decade in customer-facing leadership roles — and bring that people-first lens into every part of my dev work. I thrive on collaboration, iteration, and building tools that are actually useful.
+### 👋 I’m Rochelle Rossman
+
+I'm a web software developer with a passion for accessible, inclusive, and user-first digital experiences. I come from a nontraditional background — with over a decade in customer-facing leadership roles — and bring that people-first lens into every part of my dev work. I thrive on collaboration, iteration, and building tools that are actually useful.
 
 ---
 
