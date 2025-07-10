@@ -1,41 +1,57 @@
-### Hi there 👋
+### 👋 Hi, I’m Rochelle Rossman
 
+I'm a web developer with a passion for accessible, inclusive, and user-first digital experiences. I come from a nontraditional background — with over a decade in customer-facing leadership roles — and bring that people-first lens into every part of my dev work. I thrive on collaboration, iteration, and building tools that are actually useful.
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="60" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>    
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="60" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="60" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="60" /></a>  
-</div>  
+---
 
-<br/>  
+### 🛠️ Tech Stack
 
+#### Languages, Frameworks & Libraries
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=plastic)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=plastic)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=plastic)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=plastic)
+![Astro](https://img.shields.io/badge/Astro.js-BC52EE?style=plastic&logo=astro&logoColor=fff)
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+#### Styling & UI
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=plastic&logo=sass&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=plastic)
+![ShadCN UI](https://img.shields.io/badge/-ShadCN%20UI-black?style=plastic)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=plastic)
 
-<img src="https://github-readme-stats.vercel.app/api?username=rochelle-rossman&show_icons=true&count_private=true&hide_border=true&theme=material-palenight" align="left" style="width: 100%" />
+#### CMS & Platforms
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=plastic)
+![Payload CMS](https://img.shields.io/badge/-Payload-000?style=plastic&logo=payloadcms&logoColor=fff)
+![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white&style=plastic)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=fff)
 
-</td><td valign="top" width="50%">
+#### DevOps & Deployment
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=plastic)
+![Argo CD](https://img.shields.io/badge/-Argo%20CD-FE502F?logo=argo&logoColor=white&style=plastic)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=plastic)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochelle-rossman&hide_border=true&layout=compact&theme=material-palenight" align="center" style="width: 100%" /></div>
+---
 
-</td></tr></table>  
+### 📈 GitHub Stats
 
-<br/> 
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rochelle-rossman&show_icons=true&count_private=true&hide_border=true&theme=material-palenight" style="width: 100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochelle-rossman&hide_border=true&layout=compact&theme=material-palenight" style="width: 100%" />
+    </td>
+  </tr>
+</table>
 
+---
 
-## Connect with me  
-<div align="center"><a href="https://www.linkedin.com/in/rochelle-rossman/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rochelle-rossman/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://rochellerossman.dev)
