@@ -1,4 +1,4 @@
-![Picture](LIBanner2025.png)
+<img width="800" height="400" alt="RocheLle Rossman" src="https://github.com/user-attachments/assets/c5869b0b-ab5d-4f9d-bb50-6f3a974fd1d4" />
 
 ### 👋 I’m Rochelle Rossman
 
